@@ -35,7 +35,7 @@ padding:10px;
 }
 .image-holder
 {
-    position:relative;
+    position:relative; 
     height: 13%;
     left:-10px;
 }
@@ -45,6 +45,9 @@ padding:10px;
     max-width:150%;
     max-height: 150%;
     z-index:2;
+    cursor: grab;
+    top: 0px;     /* ✅ Add this */
+    left: 0px; 
 }
 /* div img
 {
@@ -151,3 +154,4 @@ padding:10px;
     height:200px;
     background-color: goldenrod;
 } */
+ 
