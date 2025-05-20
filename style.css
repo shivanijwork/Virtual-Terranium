@@ -54,10 +54,10 @@ padding:10px;
 {
     color:hotpink
 } */
-img:hover
+/* img:hover
 {
     width:70px;
-}
+} */
 .jar-top
 {
     width:40%;
@@ -137,7 +137,7 @@ img:hover
     }
 
 }
-.plant
+/* .plant
 {
     animation: slide-in 1s ease-in;
 }
@@ -150,4 +150,4 @@ img:hover
     width:200px;
     height:200px;
     background-color: goldenrod;
-}
+} */
